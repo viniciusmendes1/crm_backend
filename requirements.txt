@@ -1,0 +1,8 @@
+PyQt5==5.15.4
+pandas==1.3.3
+pyinstaller==4.5.1
+imbox==0.9.8
+qtawesome==1.0.3
+oauth2client==4.1.3
+google-api-python-client==2.1.0
+python-dotenv==0.19.2
